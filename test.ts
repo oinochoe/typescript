@@ -1,7 +1,7 @@
 class Test {
-  constructor() {
-    console.log("test");
-  }
+    constructor() {
+        console.log('test');
+    }
 }
 
 new Test();
